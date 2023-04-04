@@ -1,1 +1,2 @@
 # Unit-3-04-HTML-Fahrenheit-Celsius
+[![GitHub's Super Linter](https://github.com/ICS20-Programming-SavyonM/Unit-3-04-HTML-Fahrenheit-Celsius/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-SavyonM/Unit-3-04-HTML-Fahrenheit-Celsius/actions)
